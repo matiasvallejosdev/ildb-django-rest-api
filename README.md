@@ -1,2 +1,2 @@
-# ildb-django-rest-api
+# ILDB (InternetLibraryAPI)
 Personal internet library database to organize books.
